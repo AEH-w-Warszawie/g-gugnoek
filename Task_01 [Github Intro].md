@@ -1,4 +1,5 @@
-## Ekin Efe GUNGOR - 54819
+## Ekin Efe GUNGOR
+54819
 
 # About Turkey
 
