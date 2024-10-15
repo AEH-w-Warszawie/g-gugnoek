@@ -1,7 +1,5 @@
 ## Ekin Efe GUNGOR
 
----
-
 # About Turkey
 
 **Turkey** is a country that spans two continents, located mainly on the **Anatolian Peninsula** in Western Asia, with a smaller portion on the **Balkan Peninsula** in Southeastern Europe.
